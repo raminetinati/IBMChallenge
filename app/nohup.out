@@ -1,0 +1,80 @@
+connected to database
+calling Twitter
+since_ID: 0
+max_ID: 0
+connected to database
+calling Twitter
+since_ID: 0
+max_ID: 0
+{}
+calling Twitter
+since_ID: 0
+max_ID: 573118678054666240
+{ statuses: 
+   [ { metadata: [Object],
+       created_at: 'Wed Mar 04 13:51:55 +0000 2015',
+       id: 573118678054666240,
+       id_str: '573118678054666240',
+       text: 'New Design of Google Contacts http://t.co/7UbdFJLAft #news',
+       source: '<a href="http://ifttt.com" rel="nofollow">IFTTT</a>',
+       truncated: false,
+       in_reply_to_status_id: null,
+       in_reply_to_status_id_str: null,
+       in_reply_to_user_id: null,
+       in_reply_to_user_id_str: null,
+       in_reply_to_screen_name: null,
+       user: [Object],
+       geo: null,
+       coordinates: null,
+       place: null,
+       contributors: null,
+       retweet_count: 0,
+       favorite_count: 0,
+       entities: [Object],
+       favorited: false,
+       retweeted: false,
+       possibly_sensitive: false,
+       lang: 'en' },
+     { metadata: [Object],
+       created_at: 'Wed Mar 04 13:51:54 +0000 2015',
+       id: 573118674514681860,
+       id_str: '573118674514681858',
+       text: 'Cluck for iPhone – Never Miss a Text Again (made at MIT) http://t.co/b27BdOQEFY #news',
+       source: '<a href="http://ifttt.com" rel="nofollow">IFTTT</a>',
+       truncated: false,
+       in_reply_to_status_id: null,
+       in_reply_to_status_id_str: null,
+       in_reply_to_user_id: null,
+       in_reply_to_user_id_str: null,
+       in_reply_to_screen_name: null,
+       user: [Object],
+       geo: null,
+       coordinates: null,
+       place: null,
+       contributors: null,
+       retweet_count: 0,
+       favorite_count: 0,
+       entities: [Object],
+       favorited: false,
+       retweeted: false,
+       possibly_sensitive: false,
+       lang: 'en' } ],
+  search_metadata: 
+   { completed_in: 0.01,
+     max_id: 573118678054666240,
+     max_id_str: '573118678054666240',
+     next_results: '?max_id=573118674514681857&q=%23news&count=2&include_entities=1',
+     query: '%23news',
+     refresh_url: '?since_id=573118678054666240&q=%23news&include_entities=1',
+     count: 2,
+     since_id: 0,
+     since_id_str: '0' } }
+-----
+undefined
+undefined
+-----
+-----
+undefined
+undefined
+-----
+ADDING NEW DATA
